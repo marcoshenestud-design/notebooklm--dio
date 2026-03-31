@@ -1,5 +1,5 @@
 ## Nesse projeto usei a IA (NotebookLM) para responder duvidas a cercado tema escolhido, inflação e seu impacto no poder de compra.
-
+<img width="1906" height="717" alt="Captura de tela 2026-03-30 230142" src="https://github.com/user-attachments/assets/bdb9cc5b-e20d-48ef-b828-6d122ef4864f" />
 ### Pergunta 1: 
 Explique inflação em linguagem simples, para iniciante.
 
